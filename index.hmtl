@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.0.1">
+			<file name="Pixie.xml" url="https://raw.githubusercontent.com/BonkTizzy/Pixie/main/Pixie.index?token=GHSAT0AAAAAACXH3RHTHKF77V4HUOIZBDDWZW7WQHA" />
+		</update>
+	</info>
+
+	<element name="Pixie" type="Race" source="Monster Manuel" id="ID_DMSG_MUSG_RACE_SPRITE">
+		<description>
+			<p>Pixies were mischievous sprites that enjoyed playing pranks on people. Such pranks included leading travelers astray and tricking misers into parting with their wealth.</p>
+			<h4>CURIOUS FAE</h4>
+			<p>Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise. Curious as cats and shy as deer, pixies go where they please. They like to spy on other creatures and can barely contain their excitement around them. The urge to introduce themselves and strike up a friendship is almost overwhelming; only a pixie's fear of being captured or attacked stays its hand. Those who wander through a pixie's glade might never see the creatures, yet hear the occasional giggle, gasp, or sigh.</p>
+			<h4>MAGICAL FAERIE FOLK</h4>
+			<p>With their innate power of invisibility, pixies rarely appear unless they wish to be seen. In the Feywild and on the Material Plane, pixies etch patterns of frost on winter ponds and rouse the buds in springtime. They cause flowers to sparkle with summer dew, and color the leaves with the blazing hues of autumn.</p>
+			<h4>MASTERS OF POISON</h4>
+			<p>Sprites are skillful brewers of toxins and poisons, often using rare plants and fungi to do so. Sprite arrows are coated with a special poison of their own devising, one that renders the target unconscious.</p>
+			<div class="sidebar">
+				<h5>PIXIE DUST</h5>
+				<p>When pixies fly visibly, a shower of sparkling dust follows in their wake like the glittering tail of a shooting star. A mere sprinkle of pixie dust is said to be able to grant the power of flight, confuse a creature hopelessly, or send foes into a magical slumber. Only pixies can use their dust to its full potential, but these fey are constantly sought out by mages and monsters seeking to study or master their power.</p>
+<h5>TINY TRICKSTERS</h5>
+				<p>While the arrival of visitors piques their curiosity, pixies are too shy to reveal themselves at first. They study the visitors from afar to gauge their temperament or play harmless tricks on them to measure their reactions. For example, pixies might tie a dwarf's boots together, create illusions of strange creatures or treasures, or use dancing lights to lead interlopers astray. If the visitors respond with hostility, the pixies give them a wide berth. If the visitors are good natured, the pixies are likely to be emboldened and more friendly. The fey might even emerge and offer to guide their "guests" along a safe route or invite them to a tiny yet satisfying feast prepared in their honor.</p>
+<h5>OPPOSED TO VIOLENCE</h5>
+				<p> Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner flee than get into a physical altercation with any enemy.</p>
+			</div>
+			<h4>PIXIE IS THE RIGHT SIZE</h4>
+			<p>Most normal equipment is too large for sprites to use, especially weapons and armor. Pixie-sized equipment is about a fifth the weight of regular equipment, and costs 50% more to manufacture. Pixie-sized weapons inflict the next lower damage die than regular weapons. For example, a weapon that normally inflicts 1d6 damage would inflict 1d4 damage if sprite-sized. A weapon that inflicts 1d4 damage inflicts 1 point of damage if pixie-sized. Pixie-sized range weapons have half the normal range.</p>
+			<h4>PIXIE NAMES</h4>
+			<p>Sprites do not have a gender. They are given a child name by their mater when born, and an adult name by the village chieftain when they turn 11.</p>
+			<p class="indent"><strong><em>Child Names.</em></strong> Ando, Asti, Dee, Esta, Irel, Nyx, Ondo, Rix, Zisk</p>
+			<p class="indent"><strong><em>Adult Names.</em></strong> Cyrriel, Elsidela, Emberel, Ganriora, Glaxrial, Glinkroëla, Helmiri, Istlewen, Jostor, Minriana, Oriflin, Perinari, Resswena, Tirralas, Trillriela, Weskiel, Wisprior, Zandorondi</p>
+			<h4>PIXIE TRAITS</h4>
+			<p>Pixie characters have the following traits in common.</p>
+			<p class="indent"><strong><em>Ability Score Adjustment.</em></strong> Your Dexterity score increases by 4 and Intelligence by 2. Your Strength score decreases by 4.</p>
+			<p class="indent"><strong><em>Age.</em></strong> Sprite aging is a mysterious affair. Some appear near immortal, while others wither and die after just a few seasons. Sprites themselves say they live “for as long as necessary.”</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Most Pixies tend toward Neutral Good Alignments.</p>
+			<p class="indent"><strong><em>Size.</em></strong> On average you are about 18 inches tall. Your size is Tiny.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed is 10 feet.</p>
+			<p class="indent"><strong><em>Flight.</em></strong> You have a flying speed of 40 feet. While flying, you can move through the space of any creature that is of a size larger than yours. You cannot fly if you are wearing medium or heavy armor.</p>
+			<p class="indent"><strong><em>Pixie Magic.</em></strong> You can cast the invisibility spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the detect thoughts spell once with this trait and regain the ability to do so when you finish a long rest.</p>
+			<p class="indent"><strong><em>Skilled Poisoner.</em></strong> You have proficiency with the poisoner’s kit. You can spend five downtime days and 25 gp to create 5 poison arrows (see box, “Poison Arrows,” above).</p>
+			<p class="indent"><strong><em>Pixie-Sized Equipment.</em></strong> All your starting equipment is sprite-sized. You may substitute one piece of weaponry or armor granted by your class or background for 10 poison arrows.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak Common and Sylvan. You cannot read or write unless your class requires it.</p>
+		</description>
+		<setters>
+			<set name="names" type="custom">Ando, Asti, Dee, Esta, Irel, Nyx, Ondo, Rix, Zisk, Cyrriel, Elsidela, Emberel, Ganriora, Glaxrial, Glinkroëla, Helmiri, Istlewen, Jostor, Minriana, Oriflin, Perinari, Resswena, Tirralas, Trillriela, Weskiel, Wisprior, Zandorondi</set>
+			<set name="names-format">{{custom}}</set>
+		</setters>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="4" />
+			<stat name="intelligence" value="2" />
+			<stat name="strength" value="-4" />
+			<grant type="Size" id="ID_SIZE_TINY" />
+			<stat name="innate speed" value="10" bonus="base" />
+			<grant type="Racial Trait" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_FLIGHT" />
+			<grant type="Racial Trait" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SPRITE_MAGIC" />
+			<grant type="Racial Trait" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SKILLED_POISONER" />
+			<grant type="Racial Trait" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SPRITE_SIZED_EQUIPMENT" />
+			<grant type="Racial Trait" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_LANGUAGES" />
+		</rules>
+	</element>	
+	<element name="Flight" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_FLIGHT">
+		<description>
+			<p>You have a flying speed of 40 feet. While flying, you can move through the space of any creature that is of a size larger than yours. You cannot fly if you are wearing medium or heavy armor.</p>
+		</description>
+		<sheet>
+			<description>While flying, you can move through the space of any creature that is of a size larger than yours. You cannot fly if you are wearing medium or heavy armor.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed:fly" value="40" bonus="base" equipped="![armor:medium],![armor:heavy]" />
+		</rules>
+	</element>
+	<element name="Martial Pedigree" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_MARTIAL_PEDIGREE">
+		<description>
+			<p>You have trained for war your whole life. You are proficient with the shortbow, rapier, and light armor.</p>
+		</description>
+		<sheet display="false">
+			<description>You are proficient with the shortbow, rapier, and light armor.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTBOW" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+		</rules>
+	</element>
+	<element name="Sprite Magic" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SPRITE_MAGIC">
+		<description>
+			<p>You can cast the <em>invisibility</em> spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the <em>detect thoughts</em> spell once with this trait and regain the ability to do so when you finish a long rest.</p>
+		</description>
+		<sheet usage="1/Long Rest">
+			<description>You can cast the invisibility spell once with this trait.</description>
+			<description level="3">You can cast the invisibility and detect thoughts spells once with this trait.</description>
+		</sheet>
+	</element>
+	<element name="Skilled Poisoner" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SKILLED_POISONER">
+		<description>
+			<p>You have proficiency with the poisoner’s kit. You can spend five downtime days and 25 gp to create 5 poison arrows (see box, “Poison Arrows,” above).</p>
+			<!-- <div class="reference">
+				<div element="ID_DMSG_MUSG_ITEM_AMMUNITION_POISON_ARROW" />
+			</div> -->
+		</description>
+		<sheet>
+			<description>You can spend five downtime days and 25 gp to create 5 poison arrows.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_POISONERS_KIT" />
+		</rules>
+	</element>
+	<element name="Sprite-Sized Equipment" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_SPRITE_SIZED_EQUIPMENT">
+		<description>
+			<p>All your starting equipment is sprite-sized. You may substitute one piece of weaponry or armor granted by your class or background for 10 poison arrows.</p>
+		</description>
+		<sheet display="false">
+			<description>All your starting equipment is sprite-sized. You may substitute one piece of weaponry or armor granted by your class or background for 10 poison arrows.</description>
+		</sheet>
+	</element>
+	<element name="Languages" type="Racial Trait" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_RACIAL_TRAIT_SPRITE_LANGUAGES">
+		<description>
+			<p>You can speak Common and Sylvan. You cannot read or write unless your class requires it.</p>
+		</description>
+		<sheet>
+			<description>You cannot read or write unless your class requires it.</description>
+		</sheet>
+		<rules>			
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Language" id="ID_LANGUAGE_SYLVAN" />
+		</rules>
+	</element>
+
+	<element name="Poison Arrow" type="Item" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ITEM_AMMUNITION_POISON_ARROW">
+		<description>
+			<p>On a hit, the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage, or another creature takes an action to shake it awake.</p>
+		</description>
+		<setters>
+			<set name="category">Ammunition</set>
+			<set name="cost" currency="gp">5</set>
+			<set name="weight" lb="0.05">1/20 lb.</set>
+			<set name="type">Ammunition</set>
+			<!-- <set name="type">Arrow</set> -->
+			<set name="stackable">true</set>
+		</setters>
+	</element>
+
+	<!-- todo: create sprite weapons?, or let user adjust it in the attacks & spellcasting UI -->
+	
+	<!-- <element name="Sprite-Sized Shortbow" type="Weapon" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_WEAPON_SPRITE_SHORTBOW">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_SIMPLE_RANGED, ID_INTERNAL_DAMAGE_TYPE_PIERCING, ID_INTERNAL_WEAPON_PROPERTY_AMMUNITION, ID_INTERNAL_WEAPON_PROPERTY_TWOHANDED, ID_INTERNAL_WEAPON_GROUP_BOWS</supports>
+		<description>
+			<p>Most normal equipment is too large for sprites to use, especially weapons and armor. Sprite-sized equipment is about a fifth the weight of regular equipment, and costs 50% more to manufacture. Sprite-sized weapons inflict the next lower damage die than regular weapons. For example, a weapon that normally inflicts 1d6 damage would inflict 1d4 damage if sprite-sized. A weapon that inflicts 1d4 damage inflicts 1 point of damage if sprite-sized. Sprite-sized range weapons have half the normal range.</p>
+		</description>
+		<setters>
+			<set name="category">Weapons</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="0.4">2/5 lb.</set>
+			<set name="slot">twohand</set>
+			<set name="range">40/160</set>
+			<set name="damage" type="piercing">1d4</set>
+			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTBOW</set>
+		</setters>
+	</element>
+	<element name="Sprite-Sized Rapier" type="Weapon" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_WEAPON_SPRITE_RAPIER">
+		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_PIERCING, ID_INTERNAL_WEAPON_PROPERTY_FINESSE</supports>
+		<description>
+			<p>Most normal equipment is too large for sprites to use, especially weapons and armor. Sprite-sized equipment is about a fifth the weight of regular equipment, and costs 50% more to manufacture. Sprite-sized weapons inflict the next lower damage die than regular weapons. For example, a weapon that normally inflicts 1d6 damage would inflict 1d4 damage if sprite-sized. A weapon that inflicts 1d4 damage inflicts 1 point of damage if sprite-sized. Sprite-sized range weapons have half the normal range.</p>
+		</description>
+		<setters>
+			<set name="category">Weapons</set>
+			<set name="cost" currency="gp">50</set>
+			<set name="weight" lb="0.4">2/5 lb.</set>
+			<set name="slot">onehand</set>
+			<set name="damage" type="piercing">1d6</set>
+			<set name="proficiency">ID_PROFICIENCY_WEAPON_PROFICIENCY_RAPIER</set>
+		</setters>
+	</element> -->
+
+</elements>
