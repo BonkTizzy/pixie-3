@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="Pixie.xml" url="https://raw.githubusercontent.com/BonkTizzy/pixie-3/main/index.hmtl" />
+			<file name="Pixie.xml" url="https://raw.githubusercontent.com/BonkTizzy/pixie-3/main/index" />
 		</update>
 	</info>
 
